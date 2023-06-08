@@ -1,0 +1,526 @@
+ID,species,institution,specimenID,cat_no,new_sp,sex,prep,label_species,distribution_note,mdd_name
+478,Abrawayaomys chebezi,MACN,20253,holotype,Abrawayaomys_chebezi,M,pc,Abrawayaomys chebezi,Misiones Pto Peninsula,Abrawayaomys_ruschii
+158,Abrocoma bennetti,UACH,967,1179EP,Abrocoma_bennetti,M,pc,Abrocoma bennetti,PN Fray Jorge,Abrocoma_bennettii
+159,Abrocoma bennetti,UACH,968,1180EP,Abrocoma_bennetti,M,pc,Abrocoma bennetti,PN Fray Jorge,Abrocoma_bennettii
+160,Abrocoma bennetti,UACH,5742,620FML,Abrocoma_bennetti,F,NA,Abrocoma bennetti,PN Lago Peñuelas,Abrocoma_bennettii
+161,Abrocoma bennetti,UACH,3700,2573DR,Abrocoma_bennetti,F,pc,Abrocoma bennetti,Los Queñes,Abrocoma_bennettii
+162,Abrocoma bennetti,UACH,5741,619FML,Abrocoma_bennetti,M,NA,Abrocoma bennetti,PN Lago Peñuelas,Abrocoma_bennettii
+163,Abrocoma bennetti,UACH,7005,633FML,Abrocoma_bennetti,M,pc,Abrocoma bennetti,PN Lago Peñuelas,Abrocoma_bennettii
+164,Abrocoma bennetti,UACH,7006,635FML,Abrocoma_bennetti,M,pc,Abrocoma bennetti,PN Lago Peñuelas,Abrocoma_bennettii
+165,Abrocoma bennetti,UACH,7007,636FML,Abrocoma_bennetti,F,pc,Abrocoma bennetti,PN Lago Peñuelas,Abrocoma_bennettii
+166,Abrocoma bennetti,UACH,7008,642FML,Abrocoma_bennetti,F,c,Abrocoma bennetti,Sector Pichuante,Abrocoma_bennettii
+167,Abrocoma cinerea,UACH,4178,421FML,Abrocoma_cinerea,M,pc,Abrocoma cinerea,Salar Surire,Abrocoma_cinerea
+382,Abrothrix longipilis,UACH,1870,767PM,Abrothrix_longipilis,M,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+383,Abrothrix longipilis,UACH,1865,761PM,Abrothrix_longipilis,M,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+384,Abrothrix longipilis,UACH,1868,753PM,Abrothrix_longipilis,M,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+385,Abrothrix longipilis,UACH,1859,611PM,Abrothrix_longipilis,F,pc,Abrothrix longipilis apta,La Picada,Abrothrix_longipilis
+386,Abrothrix longipilis,UACH,1861,625PM,Abrothrix_longipilis,F,pc,Abrothrix longipilis apta,La Picada,Abrothrix_longipilis
+387,Abrothrix longipilis,UACH,1862,635PM,Abrothrix_longipilis,F,pc,Abrothrix longipilis apta,La Picada,Abrothrix_longipilis
+388,Abrothrix longipilis,UACH,1869,765PM,Abrothrix_longipilis,F,pc,Akodon longipilis apta,La Picada,Abrothrix_longipilis
+389,Abrothrix longipilis,UACH,1871,773PM,Abrothrix_longipilis,F,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+390,Abrothrix longipilis,UACH,1889,1413BP,Abrothrix_longipilis,F,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+391,Abrothrix longipilis,UACH,1873,781PM,Abrothrix_longipilis,F,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+392,Abrothrix longipilis,UACH,1874,787PM,Abrothrix_longipilis,M,pc,Akodon longipilis,La Picada,Abrothrix_longipilis
+393,Abrothrix longipilis,UACH,1882,815PM,Abrothrix_hirta,M,pc,Akodon longipilis,La Picada,Abrothrix_hirta
+394,Abrothrix longipilis,UACH,1890,1421BP,Abrothrix_longipilis,M,pc,Akodon longipilis apta,La Picada,Abrothrix_longipilis
+395,Abrothrix longipilis,UACH,1892,1429BP,Abrothrix_longipilis,M,pc,Akodon longipilis apta,La Picada,Abrothrix_longipilis
+396,Abrothrix longipilis,UACH,1893,1443BP,Abrothrix_longipilis,F,p,Akodon longipilis apta,La Picada,Abrothrix_longipilis
+397,Abrothrix longipilis,UACH,1884,837PM,Abrothrix_longipilis,M,p,Akodon longipilis,La Picada,Abrothrix_longipilis
+398,Abrothrix longipilis,UACH,1886,861PM,Abrothrix_longipilis,F,p,Akodon longipilis apta,La Picada,Abrothrix_longipilis
+168,Aconaemys fuscus,UACH,5825,1582MHG,Aconaemys_fuscus,M,p,Aconaemys fuscus,Alto Lircay,Aconaemys_fuscus
+169,Aconaemys fuscus,UACH,5826,1583MHG,Aconaemys_fuscus,M,p,Aconaemys fuscus,Termas de Chillán,Aconaemys_fuscus
+170,Aconaemys fuscus,UACH,5827,1584MHG,Aconaemys_fuscus,F,p,Aconaemys fuscus,Termas de Chillán,Aconaemys_fuscus
+171,Aconaemys fuscus,UACH,4181,126RAL,Aconaemys_fuscus,M,pc,Aconaemys fuscus,Hacienda el Roble,Aconaemys_fuscus
+172,Aconaemys fuscus,UACH,4182,127RAL,Aconaemys_fuscus,F,pc,Aconaemys fuscus,Hacienda el Roble,Aconaemys_fuscus
+173,Aconaemys fuscus,UACH,4180,125RAL,Aconaemys_fuscus,F,pc,Aconaemys fuscus,Hacienda el Roble,Aconaemys_fuscus
+174,Aconaemys fuscus,UACH,4183,402FML,Aconaemys_fuscus,F,pc,Aconaemys fuscus,Fundo el Roble,Aconaemys_fuscus
+175,Aconaemys fuscus,UACH,7010,641FML,Aconaemys_fuscus,M,pc,Aconaemys fuscus,Parque Inglés,Aconaemys_fuscus
+176,Aconaemys fuscus,UACH,7011,643FML,Aconaemys_fuscus,M,pc,Aconaemys fuscus,Parque Inglés,Aconaemys_fuscus
+177,Aconaemys fuscus,UACH,7012,644FML,Aconaemys_fuscus,F,pc,Aconaemys fuscus,Parque Inglés,Aconaemys_fuscus
+178,Aconaemys porteri,UACH,2272,2346DR,Aconaemys_porteri,F,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+179,Aconaemys porteri,UACH,3702,372FML,Aconaemys_porteri,F,pc,Aconaemys porteri,Pampa Frutilla,Aconaemys_porteri
+180,Aconaemys porteri,UACH,2274,2352DR,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+181,Aconaemys porteri,UACH,3701,2547DR,Aconaemys_porteri,M,pc,Aconaemys porteri,Pampa Frutilla,Aconaemys_porteri
+182,Aconaemys porteri,UACH,3706,2578DR,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+183,Aconaemys porteri,UACH,3707,2592DR,Aconaemys_porteri,F,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+184,Aconaemys porteri,UACH,3705,2577DR,Aconaemys_porteri,F,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+185,Aconaemys porteri,UACH,3704,2411DR,Aconaemys_porteri,F,pc,Aconaemys porteri,Termas de Palquiña,Aconaemys_porteri
+186,Aconaemys porteri,UACH,2273,2351DR,Aconaemys_porteri,F,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+187,Aconaemys porteri,UACH,3716,395FML,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+188,Aconaemys porteri,UACH,3720,095RA,Aconaemys_porteri,F,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+189,Aconaemys porteri,UACH,3718,092RA,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+190,Aconaemys porteri,UACH,3719,094RA,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+191,Aconaemys porteri,UACH,3717,399FML,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+192,Aconaemys porteri,UACH,3708,2593DR,Aconaemys_porteri,M,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+193,Aconaemys porteri,UACH,3711,2601DR,Aconaemys_porteri,F,pc,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+194,Aconaemys porteri,UACH,4418,142RA,Aconaemys_porteri,M,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+195,Aconaemys porteri,UACH,4185,139RA,Aconaemys_porteri,F,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+196,Aconaemys porteri,UACH,4190,145RA,Aconaemys_porteri,M,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+197,Aconaemys porteri,UACH,3723,098RA,Aconaemys_porteri,M,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+198,Aconaemys porteri,UACH,4187,141RA,Aconaemys_porteri,M,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+199,Aconaemys porteri,UACH,3722,091RA,Aconaemys_porteri,M,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+200,Aconaemys porteri,UACH,3721,096RA,Aconaemys_porteri,M,p,Aconaemys porteri,Quetropillán,Aconaemys_porteri
+202,Aconaemys sagei,UACH,2526,Msilva,Aconaemys_sagei,F,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+203,Aconaemys sagei,UACH,2524,Msilva,Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+204,Aconaemys sagei,UACH,3,MG (561),Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+205,Aconaemys sagei,UACH,1,MG (557),Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+206,Aconaemys sagei,UACH,2,MG (558),Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+207,Aconaemys sagei,UACH,2527,Msilva,Aconaemys_sagei,F,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+208,Aconaemys sagei,UACH,2525,Msilva,Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+210,Aconaemys sagei,UACH,5602,1369MG,Aconaemys_sagei,M,pc,Aconaemys sagei,Curarrehue,Aconaemys_sagei
+211,Aconaemys sagei,UACH,5604,1371MG,Aconaemys_sagei,M,pc,Aconaemys sagei,Curarrehue,Aconaemys_sagei
+212,Aconaemys sagei,UACH,4202,2723DR,Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Huerquehue,Aconaemys_sagei
+213,Aconaemys sagei,UACH,3703,2557DR,Aconaemys_sagei,M,pc,Aconaemys sagei,P.N. Tolhuaca,Aconaemys_sagei
+336,Akodon xantorhinus,UACH,293,357MG,Abrothrix_olivacea,M,pc,Akodon xantorhinus,Porvenir,Abrothrix_olivacea
+337,Akodon xantorhinus,UACH,1450,697MG,Abrothrix_olivacea,M,p,Akodon xantorhinus,Punta Arenas,Abrothrix_olivacea
+338,Akodon xantorhinus,UACH,1452,945MG,Abrothrix_olivacea,M,p,Akodon xantorhinus,Chile Chico,Abrothrix_olivacea
+339,Akodon xantorhinus,UACH,1453,946MG,Abrothrix_olivacea,M,p,Akodon xantorhinus,Chile Chico,Abrothrix_olivacea
+340,Akodon xantorhinus,UACH,2118,999BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,Quinta Emilia,Abrothrix_olivacea
+341,Akodon xantorhinus,UACH,2120,1003BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,Quinta Emilia,Abrothrix_olivacea
+342,Akodon xantorhinus,UACH,2121,1005BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,Quinta Emilia,Abrothrix_olivacea
+343,Akodon xantorhinus,UACH,2123,1009BP,Abrothrix_olivacea,F,pc,Akodon xantorhinus xantorhinus,Quinta Emilia,Abrothrix_olivacea
+344,Akodon xantorhinus,UACH,2127,1033BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,Quinta Emilia,Abrothrix_olivacea
+345,Akodon xantorhinus,UACH,2129,1043BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,PN Rio Las Minas,Abrothrix_olivacea
+346,Akodon xantorhinus,UACH,2130,1047BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,PN Rio Las Minas,Abrothrix_olivacea
+347,Akodon xantorhinus,UACH,2131,1051BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,PN Rio Las Minas,Abrothrix_olivacea
+348,Akodon xantorhinus,UACH,2132,1053BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,PN Rio Las Minas,Abrothrix_olivacea
+349,Akodon xantorhinus,UACH,3617,1680DK,Abrothrix_olivacea,M,p,Akodon xantorhinus,Chile Chico,Abrothrix_olivacea
+350,Akodon xantorhinus,UACH,2134,1071BP,Abrothrix_olivacea,M,pc,Akodon xantorhinus xantorhinus,PN Rio Las Minas,Abrothrix_olivacea
+368,Andinomys edax,UACH,3623,4371DK,Andinomys_edax,F,pc,Andinomys edax,Chapiqueña,Andinomys_edax
+369,Andinomys edax,UACH,7022,2257DR,Andinomys_edax,F,pc,Andinomys edax,Belen,Andinomys_edax
+371,Auliscomys boliviensis,UACH,4932,2294DR,Auliscomys_boliviensis,F,pc,Auliscomys boliviensis,Lago Chungara,Auliscomys_boliviensis
+372,Auliscomys boliviensis,UACH,921,869MG,Auliscomys_boliviensis,M,c,Phyllotis boliviensis,Parinacota,Auliscomys_boliviensis
+373,Auliscomys boliviensis,UACH,923,898MG,Auliscomys_boliviensis,M,c,Phyllotis boliviensis,Parinacota,Auliscomys_boliviensis
+374,Auliscomys boliviensis,UACH,924,899MG,Auliscomys_boliviensis,F,c,Phyllotis boliviensis,Parinacota,Auliscomys_boliviensis
+375,Auliscomys boliviensis,UACH,926,926MG,Auliscomys_boliviensis,M,c,Phyllotis boliviensis,Parinacota,Auliscomys_boliviensis
+376,Auliscomys boliviensis,UACH,927,1002MG,Auliscomys_boliviensis,M,c,Phyllotis boliviensis,Parinacota,Auliscomys_boliviensis
+370,Auliscomys sublimis,UACH,2409,2288DR,Auliscomys_sublimis,F,pc,Auliscomys sublimis leucurus,Lago Chungara,Auliscomys_sublimis
+449,Brucepattersonius iheringi,MACN,26.146,22,Brucepattersonius_iheringi,M,pc,Akodon,Tucuman,Brucepattersonius_iheringi
+450,Brucepattersonius iheringi,MACN,18953,61,Brucepattersonius_iheringi,M,pc,Oxymycterus iheringi,Misiones,Brucepattersonius_iheringi
+451,Brucepattersonius iheringi,MACN,25899,352,Brucepattersonius_iheringi,F,p,Brucepattersonius iheringi,Misiones,Brucepattersonius_iheringi
+452,Brucepattersonius iheringi,MACN,18950,1,Brucepattersonius_iheringi,M,p,Oxymycterus,Misiones,Brucepattersonius_iheringi
+453,Brucepattersonius iheringi,MACN,17670,2535,Brucepattersonius_iheringi,F,pc,Oxymycterus,Misiones,Brucepattersonius_iheringi
+454,Brucepattersonius iheringi,MACN,49327,406,Brucepattersonius_iheringi,F,p,Brucepattersonius sp.,Misiones,Brucepattersonius_iheringi
+455,Brucepattersonius iheringi,MACN,18952,39,Brucepattersonius_iheringi,M,pc,Oxymycterus iheringi,Misiones,Brucepattersonius_iheringi
+456,Brucepattersonius iheringi,MACN,Loan CM-LGE 59,CL342,Brucepattersonius_iheringi,F,c,Brucepattersonius sp.,NA,Brucepattersonius_iheringi
+457,Brucepattersonius iheringi,MACN,Loan CM-LGE 60,CL343,Brucepattersonius_iheringi,F,c,Brucepattersonius sp.,NA,Brucepattersonius_iheringi
+479,Calomys laucha,MACN,26.52,12,Calomys_laucha,M,pc,Calomys laucha,BsAs,Calomys_laucha
+480,Calomys musculinus,MACN,14617,583,Calomys_musculinus,M,pc,Calomys musculinus,Bonifacio,Calomys_musculinus
+481,Calomys musculinus,MACN,14027,NA,Calomys_musculinus,M,pc,Calomys m.,BsAs Bella Vista,Calomys_musculinus
+482,Calomys musculinus,MACN,17584,341,Calomys_musculinus,M,p,Calomys murillus,Capital Federal,Calomys_musculinus
+483,Calomys musculinus,MACN,15610,663,Calomys_musculinus,M,pc,Calomys musculinus murillus,"Capital Federal, Flores",Calomys_musculinus
+484,Calomys musculinus,MACN,19019,7821,Calomys_musculinus,F,p,Calomys musculinus,"BsAs, Pergamino",Calomys_musculinus
+286,Chelemys macronyx,UACH,303,613MG,Paynomys_macronyx,M,pc,Chelemys macronyx,Estancia La Cumbre,Paynomys_macronyx
+287,Chelemys macronyx,UACH,1460,964MG,Paynomys_macronyx,F,p,Chelemys macronix,Termas Chillan,Paynomys_macronyx
+288,Chelemys macronyx,UACH,1051,1192DK,Paynomys_macronyx,M,p,Chelemys macronix,Coihaique Reserva Forestal,Paynomys_macronyx
+289,Chelemys macronyx,UACH,1458,830MG,Paynomys_macronyx,M,p,Chelemys macronix,Perito Moreno,Paynomys_macronyx
+290,Chelemys macronyx,UACH,1050,1190DK,Paynomys_macronyx,M,p,Chelemys macronix,Coihaique Reserva Forestal,Paynomys_macronyx
+291,Chelemys macronyx,UACH,2410,2184DR,Paynomys_macronyx,M,pc,Chelemys macronix m.,Quetropillan,Paynomys_macronyx
+292,Chelemys macronyx,UACH,2411,2230DR,Paynomys_macronyx,M,pc,Chelemys macronix m.,"Laguna Laja, Petronquines",Paynomys_macronyx
+293,Chelemys macronyx,UACH,1461,983MG,Paynomys_macronyx,M,pc,Chelemys macronyx,Termas de Chillan,Paynomys_macronyx
+294,Chelemys macronyx,UACH,3628,4792DK,Paynomys_macronyx,M,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+295,Chelemys macronyx,UACH,3629,4793DK,Paynomys_macronyx,F,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+296,Chelemys macronyx,UACH,3630,4794DK,Paynomys_macronyx,M,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+297,Chelemys macronyx,UACH,3631,4795DK,Paynomys_macronyx,M,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+298,Chelemys macronyx,UACH,3632,4796DK,Paynomys_macronyx,M,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+299,Chelemys macronyx,UACH,3634,4802DK,Paynomys_macronyx,F,p,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+300,Chelemys macronyx,UACH,3635,4803DK,Paynomys_macronyx,F,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+301,Chelemys macronyx,UACH,3637,4805DK,Paynomys_macronyx,M,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+302,Chelemys macronyx,UACH,3636,4804DK,Paynomys_macronyx,M,pc,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+303,Chelemys macronyx,UACH,3638,4806DK,Paynomys_macronyx,F,p,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+304,Chelemys macronyx,UACH,3641,4809DK,Paynomys_macronyx,F,p,Chelemys macronyx,Coihaique Reserva Forestal,Paynomys_macronyx
+305,Chelemys megalonyx,UACH,2732,047EP,Paynomys_macronyx,F,p,Chelemys megalonyx,Quebrada Las Vacas,Paynomys_macronyx
+306,Chelemys megalonyx,UACH,1462,665MG,Paynomys_macronyx,M,pc,Chelemys megalonyx,PN Fray Jorge,Paynomys_macronyx
+335,Ctenomys colburni,UACH,4233,1092MG,Ctenomys_magellanicus,M,pc,Ctenomys colburni,Estancia La Cantora,Ctenomys_magellanicus
+323,Ctenomys coyhaiquensis,UACH,5624,1309MG,Ctenomys_sericeus,F,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+324,Ctenomys coyhaiquensis,UACH,5627,1312MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+325,Ctenomys coyhaiquensis,UACH,5628,1313MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+326,Ctenomys coyhaiquensis,UACH,5630,1315MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+327,Ctenomys coyhaiquensis,UACH,5632,1317MG,Ctenomys_sericeus,UNKNOWN,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+328,Ctenomys coyhaiquensis,UACH,5637,1322MG,Ctenomys_sericeus,F,pc,Ctenomys coyhaiquensis,NA,Ctenomys_sericeus
+329,Ctenomys coyhaiquensis,UACH,5636,1321MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+330,Ctenomys coyhaiquensis,UACH,5643,1329MG,Ctenomys_sericeus,F,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+331,Ctenomys coyhaiquensis,UACH,5644,1330MG,Ctenomys_sericeus,M,p,Ctenomys coyhaiquensis,NA,Ctenomys_sericeus
+332,Ctenomys coyhaiquensis,UACH,5647,1333MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+333,Ctenomys coyhaiquensis,UACH,5649,1335MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+334,Ctenomys coyhaiquensis,UACH,5650,1336MG,Ctenomys_sericeus,M,pc,Ctenomys coyhaiquensis,Chile Chico,Ctenomys_sericeus
+269,Ctenomys fulvus,UACH,306,565MG,Ctenomys_fulvus,M,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+270,Ctenomys fulvus,UACH,307,566MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+271,Ctenomys fulvus,UACH,308,567MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+272,Ctenomys fulvus,UACH,309,568MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+273,Ctenomys fulvus,UACH,313,573MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+274,Ctenomys fulvus,UACH,314,574MG,Ctenomys_fulvus,M,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+275,Ctenomys fulvus,UACH,315,575MG,Ctenomys_fulvus,M,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+276,Ctenomys fulvus,UACH,318,578MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+277,Ctenomys fulvus,UACH,319,579MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+278,Ctenomys fulvus,UACH,320,580MG,Ctenomys_fulvus,M,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+279,Ctenomys fulvus,UACH,321,581MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,San Pedro de Atacama,Ctenomys_fulvus
+280,Ctenomys fulvus,UACH,1463,886MG,Ctenomys_fulvus,M,pc,Ctenomys fulvus,"San Pedro de Atacama, sector Cucuter",Ctenomys_fulvus
+281,Ctenomys fulvus,UACH,1466,889MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,"San Pedro de Atacama, sector Cucuter",Ctenomys_fulvus
+282,Ctenomys fulvus,UACH,1467,890MG,Ctenomys_fulvus,F,p,Ctenomys fulvus,"San Pedro de Atacama, sector Cucuter",Ctenomys_fulvus
+283,Ctenomys fulvus,UACH,1468,891MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,"San Pedro de Atacama, sector Cucuter",Ctenomys_fulvus
+284,Ctenomys fulvus,UACH,1469,892MG,Ctenomys_fulvus,F,pc,Ctenomys fulvus,"San Pedro de Atacama, sector Cucuter",Ctenomys_fulvus
+285,Ctenomys fulvus,UACH,1471,894MG,Ctenomys_fulvus,M,pc,Ctenomys fulvus,"San Pedro de Atacama, sector Cucuter",Ctenomys_fulvus
+214,Ctenomys maulinus,UACH,2823,121GA,Ctenomys_maulinus,M,pc,Ctenomys maulinus maulinus,Paso Trapa Trapa,Ctenomys_maulinus
+215,Ctenomys maulinus,UACH,2825,123GA,Ctenomys_maulinus,UNKNOWN,pc,Ctenomys maulinus maulinus,Paso Trapa Trapa,Ctenomys_maulinus
+216,Ctenomys maulinus,UACH,2824,122GA,Ctenomys_maulinus,M,pc,Ctenomys maulinus maulinus,Paso Trapa Trapa,Ctenomys_maulinus
+217,Ctenomys maulinus,UACH,2821,119GA,Ctenomys_maulinus,F,pc,Ctenomys maulinus maulinus,Paso Trapa Trapa,Ctenomys_maulinus
+473,Delomys dorsalis,MACN,54.52,111,Delomys_dorsalis,F,pc,Thomasomys dorsalis,Tobuna,Delomys_dorsalis
+474,Delomys dorsalis,MACN,54.51,110,Delomys_dorsalis,M,pc,Thomasomys dorsalis,Tobuna,Delomys_dorsalis
+475,Delomys dorsalis,MACN,17763,80,Delomys_dorsalis,M,pc,Thomasomys,Tobunas,Delomys_dorsalis
+476,Delomys dorsalis,MACN,54.59,118,Delomys_dorsalis,F,pc,Delomys dorsalis,Tobuna,Delomys_dorsalis
+526,Deltamys kempi,MACN,15613,1182,Deltamys_kempi,F,pc,Akodon (Deltamys) kempi,"Bs As, Delta",Deltamys_kempi
+527,Deltamys kempi,MACN,15612,1175,Deltamys_kempi,M,pc,Akodon (Deltamys) kempi,"Bs As, Delta",Deltamys_kempi
+354,Dolichotis salinicola,UACH,6764,1533MG,Dolichotis_salinicola,M,pc,Pediolagus salinicola,Balde,Dolichotis_salinicola
+355,Dolichotis salinicola,UACH,6763,1531MG,Dolichotis_salinicola,M,pc,Pediolagus salinicola,Balde,Dolichotis_salinicola
+423,Eligmodontia moreni,MACN,17619,180,Eligmodontia_moreni,M,p,Eligmodontia,Catamarca,Eligmodontia_moreni
+424,Eligmodontia moreni,MACN,39.769,NA,Eligmodontia_moreni,F,pc,Eligmodontia,Catamarca,Eligmodontia_moreni
+351,Eligmodontia puerulus,UACH,694,981MG,Eligmodontia_puerulus,F,pc,Eligmodontia puerulus,Parinacota,Eligmodontia_puerulus
+352,Eligmodontia puerulus,UACH,695,990MG,Eligmodontia_puerulus,M,pc,Eligmodontia puerulus,Parinacota,Eligmodontia_puerulus
+353,Eligmodontia puerulus,UACH,696,991MG,Eligmodontia_puerulus,F,pc,Eligmodontia puerulus,Parinacota,Eligmodontia_puerulus
+429,Eligmodontia puerulus,MACN,22565,6692,Eligmodontia_puerulus,F,p,Eligmodontia,Salta,Eligmodontia_puerulus
+430,Eligmodontia puerulus,MACN,22560,6767,Eligmodontia_puerulus,M,pc,Eligmodontia,Salta,Eligmodontia_puerulus
+425,Eligmodontia typus,MACN,28.59,114,Eligmodontia_typus,F,p,Eligmodontia typus morgani,Rawson,Eligmodontia_typus
+426,Eligmodontia typus,MACN,28.71,130,Eligmodontia_typus,F,pc,Eligmodontia typus,Rawson,Eligmodontia_typus
+427,Eligmodontia typus,MACN,28.62,128,Eligmodontia_typus,F,p,Eligmodontia typus typus,Rawson,Eligmodontia_typus
+428,Eligmodontia typus,MACN,28.61,122,Eligmodontia_typus,F,p,Eligmodontia typus morgani,Rawson,Eligmodontia_typus
+377,Euneomys chinchilloides,UACH,1741,852MG,Euneomys_chinchilloides,M,pc,Euneomys chinchilloides p.,Cerro Microondas,Euneomys_chinchilloides
+378,Euneomys chinchilloides,UACH,1742,853MG,Euneomys_chinchilloides,M,pc,Euneomys chinchilloides p.,Cerro Microondas,Euneomys_chinchilloides
+379,Euneomys mordax,UACH,3840,2453DR,Euneomys_mordax,F,pc,Euneomys mordax,Paso Pino Hachado,Euneomys_mordax
+380,Euneomys mordax,UACH,3848,177GAP,Euneomys_mordax,F,pc,Euneomys mordax,Paso Pino Hachado,Euneomys_mordax
+381,Euneomys mordax,UACH,3850,042RAL,Euneomys_mordax,M,pc,Euneomys mordax,Paso Pino Hachado,Euneomys_mordax
+528,Euryoryzomys legatus,MACN,26348,1498,Euryoryzomys_legatus,F,pc,Euryoryzomys legatus,Salta,Euryoryzomys_legatus
+529,Euryoryzomys legatus,MACN,26346,1496,Euryoryzomys_legatus,M,pc,Euryoryzomys legatus,Salta,Euryoryzomys_legatus
+530,Euryoryzomys legatus,MACN,26344,1349,Euryoryzomys_legatus,M,pc,Euryoryzomys legatus,Salta,Euryoryzomys_legatus
+531,Euryoryzomys legatus,MACN,26347,1497,Euryoryzomys_legatus,M,pc,Euryoryzomys legatus,Salta,Euryoryzomys_legatus
+356,Geoxus annectens,UACH,7058,695FM,Geoxus_annectens,F,p,Pearsonomys annectens,Comuy,Geoxus_annectens
+357,Geoxus annectens,UACH,7055,686FM,Geoxus_annectens,M,pc,Pearsonomys annectens,Bahia San Pedro,Geoxus_annectens
+358,Geoxus annectens,UACH,7057,678FM,Geoxus_annectens,M,p,Pearsonomys annectens,Fundo San Martin,Geoxus_annectens
+359,Geoxus annectens,UACH,3132,299FM,Geoxus_annectens,F,pc,Pearsonomys annectens,Fundo Santa Rosa,Geoxus_annectens
+360,Geoxus annectens,UACH,7216,705FM,Geoxus_annectens,M,p,Pearsonomys annectens,Comuy,Geoxus_annectens
+361,Geoxus annectens,UACH,NA,19821216PM,Geoxus_annectens,M,p,Pearsonomys annectens,San Martin,Geoxus_annectens
+362,Geoxus annectens,UACH,3851,1040MG,Geoxus_annectens,M,pc,Pearsonomys annectens,Fundo San Martin,Geoxus_annectens
+363,Geoxus annectens,UACH,1064,1162RM,Geoxus_annectens,F,pc,Pearsonomys annectens,Fundo San Martin,Geoxus_annectens
+364,Geoxus annectens,UACH,1063,1047PM,Geoxus_annectens,F,pc,Pearsonomys annectens,Fundo San Martin,Geoxus_annectens
+365,Geoxus annectens,UACH,5737,1374MG,Geoxus_annectens,F,pc,Pearsonomys annectens,Fundo San Martin,Geoxus_annectens
+366,Geoxus annectens,UACH,1745,576MG,Geoxus_annectens,M,pc,Pearsonomys annectens,Fundo San Martin,Geoxus_annectens
+367,Geoxus annectens,UACH,7332,776FM,Geoxus_annectens,M,pc,Pearsonomys annectens,San Pablo de Tregua,Geoxus_annectens
+137,Geoxus valdivianus,UACH,2574,102MSilva,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,P.N. Tolhuaca,Geoxus_valdivianus
+138,Geoxus valdivianus,UACH,2575,104MSilva,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,P.N. Tolhuaca,Geoxus_valdivianus
+139,Geoxus valdivianus,UACH,2576,112MSilva,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,P.N. Tolhuaca,Geoxus_valdivianus
+140,Geoxus valdivianus,UACH,2577,117MSilva,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,P.N. Tolhuaca,Geoxus_valdivianus
+141,Geoxus valdivianus,UACH,2578,133MSilva,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,"Valdivia, Fundo La Dehesa",Geoxus_valdivianus
+142,Geoxus valdivianus,UACH,3135,292FM,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,"Valdivia, San José, Fdo. San Martín",Geoxus_valdivianus
+143,Geoxus valdivianus,UACH,3869,2595DR,Geoxus_valdivianus,M,p,Geoxus valdivianus valdivianus,"Villarica, Quetizopillán",Geoxus_valdivianus
+144,Geoxus valdivianus,UACH,4326,433FM,Geoxus_valdivianus,M,p,Geoxus valdivianus,"Villarica, Quetizopillán",Geoxus_valdivianus
+145,Geoxus valdivianus,UACH,3484,166BKL,Geoxus_valdivianus,M,p,Geoxus valdivianus,"Valdivia, San José, Fdo. San Martín",Geoxus_valdivianus
+146,Geoxus valdivianus,UACH,3490,321BKL,Geoxus_valdivianus,M,p,Geoxus valdivianus valdivianus,"Osorno, pto. Octay, La Picada",Geoxus_valdivianus
+147,Geoxus valdivianus,UACH,3863,2484DR,Geoxus_valdivianus,M,p,Geoxus valdivianus,"Malleco, Paso Pino Hachadez",Geoxus_valdivianus
+148,Geoxus valdivianus,UACH,703,559MG,Geoxus_valdivianus,M,p,Geoxus valdivianus v.,"Malleco, PN. Tolhuaca",Geoxus_valdivianus
+149,Geoxus valdivianus,UACH,1757,940MG,Geoxus_valdivianus,M,pc,Geoxus valdivianus v.,"Malleco, Lonquimay, Bosque Ñirre",Geoxus_valdivianus
+150,Geoxus valdivianus,UACH,1062,1155RM,Geoxus_valdivianus,M,p,Geoxus valdivianus v.,"Valdivia, San José, Fdo San Martín",Geoxus_valdivianus
+151,Geoxus valdivianus,UACH,1060,1137MG,Geoxus_valdivianus,M,p,Geoxus valdivianus v.,"Valdivia, Fundo La Dehesa",Geoxus_valdivianus
+152,Geoxus valdivianus,UACH,705,265MG,Geoxus_valdivianus,M,p,Geoxus valdivianus v.,"Osorno, pto. Octay, La Picada",Geoxus_valdivianus
+153,Geoxus valdivianus,UACH,2170,733PLM,Geoxus_valdivianus,M,pc,Geoxus valdivianus valdivianus,"Osorno, pto. Octay, La Picada",Geoxus_valdivianus
+154,Geoxus valdivianus,UACH,2169,697PLM,Geoxus_valdivianus,F,pc,Geoxus valdivianus valdivianus,"Osorno, pto. Octay, La Picada",Geoxus_valdivianus
+155,Geoxus valdivianus,UACH,4481,686OL,Geoxus_valdivianus,F,c,Geoxus valdivianus,"Valdivia, San José, Fdo San Martín",Geoxus_valdivianus
+156,Geoxus valdivianus,UACH,4482,1024OL,Geoxus_valdivianus,M,c,Geoxus valdivianus,"Osorno, pto. Octay, La Picada",Geoxus_valdivianus
+157,Geoxus valdivianus,UACH,1756,645MG,Geoxus_valdivianus,M,c,Geoxus valdivianus,"Valdivia, Mehuín",Geoxus_valdivianus
+443,Graomys domorum,MACN,19283,63,Graomys_domorum,F,c,Graomys domorum,Mosconi,Graomys_domorum
+444,Graomys domorum,MACN,19278,I1459,Graomys_domorum,F,p,Graomys domorum,Mosconi,Graomys_domorum
+431,Graomys griseoflavus,MACN,23557,NA,Graomys_griseoflavus,M,p,Graomys griseoflavus,PN Lihue Calel,Graomys_griseoflavus
+432,Graomys griseoflavus,MACN,16490,1055,Graomys_griseoflavus,M,p,Graomys griseoflavus,Lag Colorada,Graomys_griseoflavus
+433,Graomys griseoflavus,MACN,15484,1947,Graomys_griseoflavus,F,pc,Graomys griseoflavus,Lag Colorada,Graomys_griseoflavus
+434,Graomys griseoflavus,MACN,17715,2681,Graomys_griseoflavus,F,p,Phyllotis griseoflavus,Humaita,Graomys_griseoflavus
+435,Graomys griseoflavus,MACN,23556,NA,Graomys_griseoflavus,F,p,Graomys griseoflavus,PN Lihue Calel,Graomys_griseoflavus
+436,Graomys griseoflavus,MACN,17708,2323,Graomys_griseoflavus,F,p,Phyllotis,Payogasta,Graomys_griseoflavus
+437,Graomys griseoflavus,MACN,16251,53,Graomys_griseoflavus,UNKNOWN,p,Graomys griseoflavus,Chubut,Graomys_griseoflavus
+438,Graomys griseoflavus,MACN,20955,1010,Graomys_griseoflavus,F,pc,Graomys griseoflavus,Formosa,Graomys_griseoflavus
+439,Graomys griseoflavus,MACN,39.455,42,Graomys_griseoflavus,M,c,Graomys griseoflavus,Chaco,Graomys_griseoflavus
+440,Graomys griseoflavus,MACN,26.34,NA,Graomys_griseoflavus,F,c,Graomys griseoflavus,Bs As,Graomys_griseoflavus
+441,Graomys griseoflavus,MACN,30.381,204,Graomys_griseoflavus,M,c,Phyllotis,Salta,Graomys_griseoflavus
+442,Graomys griseoflavus,MACN,15560,2018,Graomys_griseoflavus,M,c,Graomys griseoflavus,La Pampa,Graomys_griseoflavus
+477,Gyldenstolpia planaltensis,MACN,23613,2685,Gyldenstolpia_planaltensis,UNKNOWN,c,Kunsia fronto planaltensis,Brasilia,Gyldenstolpia_planaltensis
+127,Irenomys tarsalis,UACH,708,969PM,Irenomys_tarsalis,M,pc,Irenomys tarsalis,Fdo. San Martín,Irenomys_tarsalis
+128,Irenomys tarsalis,UACH,3495,198BKLang,Irenomys_tarsalis,F,pc,Irenomys tarsalis,La Picada,Irenomys_tarsalis
+129,Irenomys tarsalis,UACH,1761,656MG,Irenomys_tarsalis,M,pc,Irenomys tarsalis,Fdo. San Martín,Irenomys_tarsalis
+130,Irenomys tarsalis,UACH,2907,018GA,Irenomys_tarsalis,M,p,Irenomys tarsalis,Bahía Yaldad,Irenomys_tarsalis
+131,Irenomys tarsalis,UACH,3498,1028,Irenomys_tarsalis,F,pc,Irenomys tarsalis,La Picada,Irenomys_tarsalis
+132,Irenomys tarsalis,UACH,2178,1572BP,Irenomys_tarsalis,F,pc,Irenomys tarsalis,La Picada,Irenomys_tarsalis
+133,Irenomys tarsalis,UACH,3870,048PAL,Irenomys_tarsalis,F,pc,Irenomys tarsalis,Fdo. San Martín,Irenomys_tarsalis
+134,Irenomys tarsalis,UACH,7041,671FM,Irenomys_tarsalis,M,pc,Irenomys tarsalis,Niebla Alto,Irenomys_tarsalis
+135,Irenomys tarsalis,UACH,3497,906PWT,Irenomys_tarsalis,M,c,Irenomys tarsalis,La Picada,Irenomys_tarsalis
+136,Irenomys tarsalis,UACH,2451,2088DR,Irenomys_tarsalis,F,c,Irenomys tarsalis,Malalca,Irenomys_tarsalis
+472,Juliomys pictipes,MACN,23385,23,Juliomys_pictipes,F,pc,Juliomys pictipes,PN Iguazu,Juliomys_pictipes
+29,Kannabateomys amblyonyx,MACN,49335,414,Kannabateomys_amblyonyx,M,p,Kannabateomys amblionix pallidior,Misiones,Kannabateomys_amblyonyx
+30,Kannabateomys amblyonyx,MACN,49354,423,Kannabateomys_amblyonyx,M,p,Kannabateomys amblyonix pallidior,Misiones,Kannabateomys_amblyonyx
+31,Kannabateomys amblyonyx,MACN,25622,M82,Kannabateomys_amblyonyx,F,p,Kannabateomys amblyonyx,Misiones,Kannabateomys_amblyonyx
+32,Kannabateomys amblyonyx,MACN,49359,438,Kannabateomys_amblyonyx,M,p,Kannabateomys a. pallidior,Misiones,Kannabateomys_amblyonyx
+33,Kannabateomys amblyonyx,MACN,52.49,8,Kannabateomys_amblyonyx,M,p,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+34,Kannabateomys amblyonyx,MACN,52.49,8,Kannabateomys_amblyonyx,M,c,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+35,Kannabateomys amblyonyx,MACN,51.47,685,Kannabateomys_amblyonyx,UNKNOWN,c,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+36,Kannabateomys amblyonyx,MACN,15457,1920,Kannabateomys_amblyonyx,M,p,Kannabateomys a. pallidior,Misiones,Kannabateomys_amblyonyx
+37,Kannabateomys amblyonyx,MACN,49.354,433,Kannabateomys_amblyonyx,M,c,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+38,Kannabateomys amblyonyx,MACN,54-9,68,Kannabateomys_amblyonyx,M,p,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+39,Kannabateomys amblyonyx,MACN,54-38,97,Kannabateomys_amblyonyx,M,p,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+40,Kannabateomys amblyonyx,MACN,18576,129,Kannabateomys_amblyonyx,M,p,Kannabateomys ambl.,Misiones,Kannabateomys_amblyonyx
+41,Kannabateomys amblyonyx,MACN,52-42,59,Kannabateomys_amblyonyx,F,c,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+42,Kannabateomys amblyonyx,MACN,54-9,68,Kannabateomys_amblyonyx,M,c,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+43,Kannabateomys amblyonyx,MACN,54-38,97,Kannabateomys_amblyonyx,M,c,Kannabateomys,Misiones,Kannabateomys_amblyonyx
+44,Kannabateomys amblyonyx,MACN,51.37,673,Kannabateomys_amblyonyx,M,c,Kannabateomys amblyonyx,Misiones,Kannabateomys_amblyonyx
+45,Kannabateomys amblyonyx,MACN,18576,129,Kannabateomys_amblyonyx,M,c,Kannabateomys amblyonyx,Misiones,Kannabateomys_amblyonyx
+46,Kannabateomys amblyonyx,MACN,17926,190,Kannabateomys_amblyonyx,M,c,Kannabateomys amblionix pallidior,Misiones,Kannabateomys_amblyonyx
+47,Kannabateomys amblyonyx,MACN,17926,190,Kannabateomys_amblyonyx,M,p,Kannabateomys amblionix pallidior,Misiones,Kannabateomys_amblyonyx
+446,Lagidium moreni,MACN,14313,NA,Lagidium_moreni,M,pc,Lagidium viscacia boxi,Rio Negro,Lagidium_moreni
+448,Lagidium moreni,MACN,13936,5,Lagidium_moreni,M,c,Lagidium viscacia,Rio Negro,Lagidium_moreni
+447,Lagidium viscacia,MACN,34.209,65,Lagidium_viscacia,F,pc,Lagidium,La Rioja,Lagidium_viscacia
+459,Lagostomus maximus,MACN,49.227,317,Lagostomus_maximus,M,pc,Lagostomus maximus,Entre Rios - Nva. Escocia,Lagostomus_maximus
+460,Lagostomus maximus,MACN,48.85,13,Lagostomus_maximus,M,pc,Lagostomus maximus,Entre Rios - Nva. Escocia,Lagostomus_maximus
+461,Lagostomus maximus,MACN,49.6,240,Lagostomus_maximus,M,pc,Lagostomus maximus,Entre Rios - Nva. Escocia,Lagostomus_maximus
+307,Loxodontomys micropus,UACH,297,336OL,Loxodontomys_micropus,M,p,Auliscomys micropus,Fundo Santa Rosa,Loxodontomys_micropus
+308,Loxodontomys micropus,UACH,298,645FW,Loxodontomys_micropus,F,pc,Auliscomys micropus,Fundo Rucapangui,Loxodontomys_micropus
+309,Loxodontomys micropus,UACH,299,648FW,Loxodontomys_micropus,F,pc,Auliscomys micropus,Fundo Rucapangui,Loxodontomys_micropus
+310,Loxodontomys micropus,UACH,1047,1191DK,Loxodontomys_micropus,F,pc,Auliscomys micropus,Fundo Esmeralda,Loxodontomys_micropus
+311,Loxodontomys micropus,UACH,1048,1193DK,Loxodontomys_micropus,F,pc,Auliscomys micropus,Coihaique Reserva Forestal,Loxodontomys_micropus
+312,Loxodontomys micropus,UACH,1455,850MG,Loxodontomys_micropus,M,pc,Auliscomys micropus,Perito Moreno,Loxodontomys_micropus
+313,Loxodontomys micropus,UACH,2136,641PM,Loxodontomys_micropus,F,pc,Auliscomys micropus,La Picada,Loxodontomys_micropus
+314,Loxodontomys micropus,UACH,2143,1001BDP,Loxodontomys_micropus,F,pc,Auliscomys micropus,Quinta Emilia,Loxodontomys_micropus
+315,Loxodontomys micropus,UACH,2566,015MS,Loxodontomys_micropus,F,pc,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+316,Loxodontomys micropus,UACH,2567,031MS,Loxodontomys_micropus,M,pc,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+317,Loxodontomys micropus,UACH,2568,032MS,Loxodontomys_micropus,F,pc,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+318,Loxodontomys micropus,UACH,2569,106MS,Loxodontomys_micropus,UNKNOWN,pc,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+319,Loxodontomys micropus,UACH,2570,110MS,Loxodontomys_micropus,F,p,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+320,Loxodontomys micropus,UACH,2571,111MS,Loxodontomys_micropus,M,p,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+321,Loxodontomys micropus,UACH,2572,113MS,Loxodontomys_micropus,F,p,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+322,Loxodontomys micropus,UACH,2573,114MS,Loxodontomys_micropus,M,p,Auliscomys micropus,PN Tolhuaca,Loxodontomys_micropus
+218,Microcavia australis,UACH,6169,1509MHG,Microcavia_australis,M,pc,Microcavia australis,Reserva Ñacuñan,Microcavia_australis
+219,Microcavia australis,UACH,6171,1526MHG,Microcavia_australis,M,pc,Microcavia australis,Reserva Ñacuñan,Microcavia_australis
+220,Microcavia australis,UACH,6175,1518MHG,Microcavia_australis,M,pc,Microcavia australis,Reserva Ñacuñan,Microcavia_australis
+462,Myocastor coypus,MACN,16415,4,Myocastor_coypus,F,p,Myocastor coypus,Cholita,Myocastor_coypus
+464,Myocastor coypus,MACN,25823,NA,Myocastor_coypus,UNKNOWN,c,Myocastor coypus,NA,Myocastor_coypus
+465,Myocastor coypus,MACN,26600,NA,Myocastor_coypus,UNKNOWN,c,Myocastor coypus,BsAs,Myocastor_coypus
+466,Myocastor coypus,MACN,28228,NA,Myocastor_coypus,UNKNOWN,c,Myocastor coypus,NA,Myocastor_coypus
+467,Myocastor coypus,MACN,25822,94,Myocastor_coypus,M,c,Myocastor coypus,"Ruta Nac. 12, Km 5",Myocastor_coypus
+512,Necromys lactens,MACN,26456,675,Necromys_lactens,M,pc,Necromys lactens,Salta,Necromys_lactens
+513,Necromys lactens,MACN,26454,670,Necromys_lactens,M,pc,Necromys lactens,Jujuy,Necromys_lactens
+514,Necromys lactens,MACN,26453,j630,Necromys_lactens,F,pc,Necromys lactens,Jujuy,Necromys_lactens
+515,Necromys lactens,MACN,26452,j966,Necromys_lactens,F,pc,Necromys lactens,Jujuy,Necromys_lactens
+516,Necromys lactens,MACN,26451,j954,Necromys_lactens,M,pc,Necromys lactens,Jujuy,Necromys_lactens
+517,Necromys lactens,MACN,26450,j953,Necromys_lactens,F,pc,Necromys lactens,Jujuy,Necromys_lactens
+518,Necromys lactens,MACN,26446,j419,Necromys_lactens,F,pc,Necromys lactens,Catamarca,Necromys_lactens
+519,Necromys lactens,MACN,26469,2562,Necromys_lactens,M,pc,Necromys lactens,Jujuy,Necromys_lactens
+520,Necromys lactens,MACN,26468,2561,Necromys_lactens,F,pc,Necromys lactens,Jujuy,Necromys_lactens
+521,Necromys lactens,MACN,26467,2547,Necromys_lactens,M,pc,Necromys lactens,Jujuy,Necromys_lactens
+522,Necromys lactens,MACN,26465,2207,Necromys_lactens,F,p,Necromys lactens,Jujuy,Necromys_lactens
+523,Necromys lactens,MACN,26461,NA,Necromys_lactens,M,p,Necromys lactens,Jujuy,Necromys_lactens
+524,Necromys lactens,MACN,26459,1576,Necromys_lactens,F,p,Necromys lactens,Salta,Necromys_lactens
+525,Necromys lactens,MACN,26458,721,Necromys_lactens,F,p,Necromys lactens,Salta,Necromys_lactens
+485,Necromys lasiurus,MACN,23879,838,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+486,Necromys lasiurus,MACN,23897,902,Necromys_lasiurus,F,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+487,Necromys lasiurus,MACN,23894,899,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+488,Necromys lasiurus,MACN,23893,890,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+489,Necromys lasiurus,MACN,23884,822,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+490,Necromys lasiurus,MACN,23881,840,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+491,Necromys lasiurus,MACN,23898,906,Necromys_lasiurus,F,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+492,Necromys lasiurus,MACN,23900,910,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+493,Necromys lasiurus,MACN,23891,883,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+494,Necromys lasiurus,MACN,23889,868,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+495,Necromys lasiurus,MACN,23887,932,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+496,Necromys lasiurus,MACN,23886,931,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+497,Necromys lasiurus,MACN,23885,928,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+498,Necromys lasiurus,MACN,23937,869,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+499,Necromys lasiurus,MACN,23936,860,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+500,Necromys lasiurus,MACN,23932,859,Necromys_lasiurus,M,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+501,Necromys lasiurus,MACN,23931,800,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+502,Necromys lasiurus,MACN,23929,841,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+503,Necromys lasiurus,MACN,23926,1554,Necromys_lasiurus,F,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+504,Necromys lasiurus,MACN,23939,863,Necromys_lasiurus,F,p,Necromys lasiurus,Chaco,Necromys_lasiurus
+505,Necromys lasiurus,MACN,29340,864,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+506,Necromys lasiurus,MACN,29343,859,Necromys_lasiurus,M,pc,Necromys lasiurus,Chaco,Necromys_lasiurus
+507,Necromys lasiurus,MACN,14715,1429,Necromys_lasiurus,M,pc,Bolomys obscurus,Sobremonte Cba,Necromys_lasiurus
+508,Necromys lasiurus,MACN,23944,1156,Necromys_lasiurus,M,pc,Necromys temuchki,Chaco,Necromys_lasiurus
+509,Necromys lasiurus,MACN,14735,1450,Necromys_lasiurus,F,pc,Akodon obscurus,Sobremonte Cba,Necromys_lasiurus
+510,Necromys lasiurus,MACN,18971,765,Necromys_lasiurus,M,p,Bolomys obscuus,Laboulaye Cba,Necromys_lasiurus
+511,Necromys lasiurus,MACN,18974,966,Necromys_lasiurus,M,p,Bolomys obscuus,Laboulaye Cba,Necromys_lasiurus
+399,Nectomys squamipes,MACN,49.416,495,Nectomys_squamipes,M,pc,Nectomys squamipes pollens,Misiones,Nectomys_squamipes
+400,Nectomys squamipes,MACN,49.355,434,Nectomys_squamipes,M,pc,Nectomys squamipes pollens,Misiones,Nectomys_squamipes
+401,Nectomys squamipes,MACN,49.347,426,Nectomys_squamipes,M,pc,Nectomys squamipes pollens,Misiones,Nectomys_squamipes
+402,Nectomys squamipes,MACN,49.316,395,Nectomys_squamipes,M,p,Nectomys squamipes pollens,Misiones,Nectomys_squamipes
+403,Nectomys squamipes,MACN,51.59,697,Nectomys_squamipes,F,p,Nectomys squamipes,Pto Iguazu,Nectomys_squamipes
+404,Nectomys squamipes,MACN,49.459,538,Nectomys_squamipes,F,pc,Nectomys squamipes pollens,Misiones,Nectomys_squamipes
+405,Nectomys squamipes,MACN,51.134,38,Nectomys_squamipes,M,pc,Nectomys squamipes,Misiones,Nectomys_squamipes
+407,Nectomys squamipes,MACN,18906,22,Nectomys_squamipes,F,pc,Nectomys squamipes pollens,Srra de la Victoria,Nectomys_squamipes
+408,Nectomys squamipes,MACN,20448,M75,Nectomys_squamipes,M,pc,Nectomys squamipes,Isla San Martin,Nectomys_squamipes
+409,Nectomys squamipes,MACN,18522,2181,Nectomys_squamipes,F,pc,Nectomys squamipes,PN Iguazu,Nectomys_squamipes
+410,Nectomys squamipes,MACN,18521,2180,Nectomys_squamipes,M,pc,Nectomys squamipes,PN Iguazu,Nectomys_squamipes
+411,Nectomys squamipes,MACN,18520,2059,Nectomys_squamipes,M,pc,Nectomys squamipes,Ayui,Nectomys_squamipes
+412,Nectomys squamipes,MACN,13546,7,Nectomys_squamipes,M,pc,Nectomys squamipes,Misiones,Nectomys_squamipes
+413,Nectomys squamipes,MACN,54.44,103,Nectomys_squamipes,F,pc,Nectomys squamipes,Frontera Tobuna,Nectomys_squamipes
+414,Nectomys squamipes,MACN,54.14,73,Nectomys_squamipes,M,pc,Nectomys squamipes,Frontera Tobuna,Nectomys_squamipes
+415,Nectomys squamipes,MACN,52.23,743,Nectomys_squamipes,F,pc,Nectomys squamipes,Frontera Tobuna,Nectomys_squamipes
+416,Neotomys ebriosus,MACN,31.122,243,Neotomys_ebriosus,F,pc,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+417,Neotomys ebriosus,MACN,31.112,252,Neotomys_ebriosus,M,pc,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+418,Neotomys ebriosus,MACN,27.82,92,Neotomys_ebriosus,M,pc,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+419,Neotomys ebriosus,MACN,27.8,87,Neotomys_ebriosus,M,pc,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+420,Neotomys ebriosus,MACN,27.81,88,Neotomys_ebriosus,M,pc,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+421,Neotomys ebriosus,MACN,27.79,80,Neotomys_ebriosus,M,p,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+422,Neotomys ebriosus,MACN,27.78,79,Neotomys_ebriosus,F,p,Neotomys ebriosus,Sierra de Zenta,Neotomys_ebriosus
+445,Notiomys edwardsii,MACN,19334,265,Notiomys_edwardsii,M,pc,Notiomys edwardsii,Bariloche,Notiomys_edwardsii
+221,Octodon bridgesi,UACH,3145,275FM,Octodon_bridgesi,F,pc,Octodon bridgesi,La Madera,Octodon_bridgesi
+222,Octodon bridgesi,UACH,2455,2054DR,Octodon_bridgesi,M,pc,Octodon bridgesi bridgesi,Rio Colorado,Octodon_bridgesi
+223,Octodon bridgesi,UACH,1764,932MG,Octodon_bridgesi,M,pc,Octodon bridgesi,Rio Colorado,Octodon_bridgesi
+224,Octodon bridgesi,UACH,3144,264FM,Octodon_bridgesi,M,pc,Octodon bridgesi,La Madera,Octodon_bridgesi
+225,Octodon bridgesi,UACH,3880,2605DR,Octodon_bridgesi,F,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+226,Octodon bridgesi,UACH,3877,2565DR,Octodon_bridgesi,F,p,Octodon bridgesi,Las Eras,Octodon_bridgesi
+227,Octodon bridgesi,UACH,3501,993PLM,Octodon_bridgesi,F,pc,Octodon bridgesi,La Madera,Octodon_bridgesi
+228,Octodon bridgesi,UACH,3503,998PLM,Octodon_bridgesi,M,pc,Octodon bridgesi,La Madera,Octodon_bridgesi
+229,Octodon bridgesi,UACH,3502,987PLM,Octodon_bridgesi,M,pc,Octodon bridgesi,La Madera,Octodon_bridgesi
+230,Octodon bridgesi,UACH,3878,2603DR,Octodon_bridgesi,F,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+231,Octodon bridgesi,UACH,3876,2569DR,Octodon_bridgesi,F,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+232,Octodon bridgesi,UACH,3879,2604DR,Octodon_bridgesi,F,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+233,Octodon bridgesi,UACH,4486,2733DR,Octodon_bridgesi,M,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+234,Octodon bridgesi,UACH,4487,2734DR,Octodon_bridgesi,F,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+235,Octodon bridgesi,UACH,3881,2606DR,Octodon_bridgesi,M,pc,Octodon bridgesi,Las Eras,Octodon_bridgesi
+236,Octodon bridgesi,UACH,4328,2654DR,Octodon_bridgesi,F,pc,Octodon bridgesi,Los Remates,Octodon_bridgesi
+237,Octodon bridgesi,UACH,3885,2450DR,Octodon_ricardojeda,F,pc,Octodon bridgesi,Rio Colorado,Octodon_ricardojeda
+238,Octodon degus,UACH,2739,064EP,Octodon_degus,M,pc,Octodon degus,Quebrada Las Vacas,Octodon_degus
+239,Octodon degus,UACH,2743,068EP,Octodon_degus,M,pc,Octodon degus,Quebrada Las Vacas,Octodon_degus
+240,Octodon degus,UACH,5219,052LG,Octodon_degus,M,pc,Octodon degus,PN La Campana,Octodon_degus
+241,Octodon degus,UACH,5216,032LG,Octodon_degus,M,pc,Octodon degus,PN La Campana,Octodon_degus
+242,Octodon degus,UACH,5218,034LG,Octodon_degus,F,pc,Octodon degus,PN La Campana,Octodon_degus
+243,Octodon degus,UACH,5223,071LG,Octodon_degus,M,pc,Octodon degus,PN La Campana,Octodon_degus
+244,Octodon degus,UACH,5220,053LG,Octodon_degus,M,c,Octodon degus,PN La Campana,Octodon_degus
+245,Octodon degus,UACH,5224,072LG,Octodon_degus,M,pc,Octodon degus,PN La Campana,Octodon_degus
+246,Octodon degus,UACH,2745,112EP,Octodon_degus,F,pc,Octodon degus,PN Fray Jorge,Octodon_degus
+247,Octodon degus,UACH,2737,040EP,Octodon_degus,F,pc,Octodon degus,El Salitre,Octodon_degus
+248,Octodon degus,UACH,1763,692MG,Octodon_degus,M,pc,Octodon degus,PN Fray Jorge,Octodon_degus
+249,Octodon degus,UACH,2744,111EP,Octodon_degus,F,pc,Octodon degus,PN Fray Jorge,Octodon_degus
+250,Octodon degus,UACH,2746,113EP,Octodon_degus,M,pc,Octodon degus,PN Fray Jorge,Octodon_degus
+251,Octodon degus,UACH,2738,049EP,Octodon_degus,M,pc,Octodon degus,Quebrada Las Vacas,Octodon_degus
+252,Octodon degus,UACH,745,517DI,Octodon_degus,M,pc,Octodon degus,Criadero Dr. Iglesias,Octodon_degus
+253,Octodon lunatus,UACH,2747,EP,Octodon_lunatus,F,pc,Octodon lunatus,Quebrada Las Vacas,Octodon_lunatus
+254,Octodon lunatus,UACH,7051,645FM,Octodon_lunatus,M,pc,Octodon lunatus,PN Lago Peñuelas,Octodon_lunatus
+255,Octodon lunatus,UACH,7050,639FM,Octodon_lunatus,M,p,Octodon lunatus,PN Lago Peñuelas,Octodon_lunatus
+2,Oxymycterus rufus,MACN,14957,1734,Oxymycterus_rufus,M,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+3,Oxymycterus rufus,MACN,14970,1749,Oxymycterus_rufus,M,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+4,Oxymycterus rufus,MACN,14945,1716,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+5,Oxymycterus rufus,MACN,14949,1723,Oxymycterus_rufus,M,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+6,Oxymycterus rufus,MACN,14948,1722,Oxymycterus_rufus,M,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+7,Oxymycterus rufus,MACN,14944,1715,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+8,Oxymycterus rufus,MACN,14950,1724,Oxymycterus_rufus,M,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+9,Oxymycterus rufus,MACN,14946,1717,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+10,Oxymycterus rufus,MACN,14941,1712,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+11,Oxymycterus rufus,MACN,14940,1711,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+12,Oxymycterus rufus,MACN,14939,1710,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+13,Oxymycterus rufus,MACN,15013,1686,Oxymycterus_rufus,M,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+14,Oxymycterus rufus,MACN,15014,1687,Oxymycterus_rufus,F,p,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+15,Oxymycterus rufus,MACN,15402,22,Oxymycterus_rufus,F,c,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+16,Oxymycterus rufus,MACN,13320,3,Oxymycterus_rufus,F,c,Oxymycterus sp,Bs As province,Oxymycterus_rufus
+17,Oxymycterus rufus,MACN,13319,2,Oxymycterus_rufus,M,c,Oxymycterus sp,Bs As province,Oxymycterus_rufus
+18,Oxymycterus rufus,MACN,13446,69,Oxymycterus_rufus,M,c,Oxymycterus platensis,Bs As province,Oxymycterus_rufus
+19,Oxymycterus rufus,MACN,13447,70,Oxymycterus_rufus,F,c,Oxymycterus platensis,Bs As province,Oxymycterus_rufus
+20,Oxymycterus rufus,MACN,15711,59,Oxymycterus_rufus,M,p,Oxymycterus rufus,Bs As province,Oxymycterus_rufus
+21,Oxymycterus rufus,MACN,14072,5705B,Oxymycterus_rufus,M,p,Oxymycterus rufus platensis,Bs As province,Oxymycterus_rufus
+22,Oxymycterus rufus,MACN,14939,1710,Oxymycterus_rufus,F,c,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+23,Oxymycterus rufus,MACN,14948,1722,Oxymycterus_rufus,M,c,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+24,Oxymycterus rufus,MACN,15410,30,Oxymycterus_rufus,F,c,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+25,Oxymycterus rufus,MACN,14940,1711,Oxymycterus_rufus,F,c,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+26,Oxymycterus rufus,MACN,14941,1712,Oxymycterus_rufus,F,c,Oxymycterus rutilans,Bs As province,Oxymycterus_rufus
+27,Oxymycterus rufus,MACN,14437,357,Oxymycterus_rufus,M,p,Oxymycterus sp,Bs As province,Oxymycterus_rufus
+28,Oxymycterus rufus,MACN,14451,371,Oxymycterus_rufus,M,p,Oxymycterus sp,Bs As province,Oxymycterus_rufus
+256,Phyllotis darwini,UACH,4575,07CS,Phyllotis_darwini,M,p,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+257,Phyllotis darwini,UACH,4578,010CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+258,Phyllotis darwini,UACH,4579,011CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+259,Phyllotis darwini,UACH,4581,013CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+260,Phyllotis darwini,UACH,4588,020CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+261,Phyllotis darwini,UACH,4590,022CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+262,Phyllotis darwini,UACH,4591,023CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+263,Phyllotis darwini,UACH,4596,028CS,Phyllotis_darwini,F,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+264,Phyllotis darwini,UACH,4599,031CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+265,Phyllotis darwini,UACH,4600,032CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+266,Phyllotis darwini,UACH,4601,033CS,Phyllotis_darwini,M,c,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+267,Phyllotis darwini,UACH,4602,034CS,Phyllotis_darwini,M,pc,Phyllotis darwini,Laboratorio Nacional Valdivia,Phyllotis_darwini
+268,Phyllotis darwini,UACH,4948,2657DR,Phyllotis_darwini,M,pc,Phyllotis darwini,Fundo Roble,Phyllotis_darwini
+83,Reithrodon auritus,UACH,1826,NA,Reithrodon_auritus,M,pc,Reithrodon auritus,Estancia Estela,Reithrodon_auritus
+84,Reithrodon auritus,UACH,1827,821MHG,Reithrodon_auritus,F,pc,Reithrodon auritus,Est. Perito Moreno,Reithrodon_auritus
+85,Reithrodon auritus,UACH,1828,822MG,Reithrodon_auritus,F,pc,Reithrodon auritus,Est. Perito Moreno,Reithrodon_auritus
+86,Reithrodon auritus,UACH,3699,022DHK,Reithrodon_auritus,F,pc,Reithrodon auritus,Chile Chico,Reithrodon_auritus
+87,Reithrodon auritus,UACH,3946,060RAL,Reithrodon_auritus,M,pc,Reithrodon auritus,Chile Chico,Reithrodon_auritus
+88,Reithrodon auritus,UACH,3947,061RAL,Reithrodon_auritus,M,pc,Reithrodon auritus,Chile Chico,Reithrodon_auritus
+89,Reithrodon auritus,UACH,3948,062RAL,Reithrodon_auritus,F,pc,Reithrodon auritus,Chile Chico,Reithrodon_auritus
+90,Reithrodon auritus,UACH,3949,0063RAL,Reithrodon_auritus,F,pc,Reithrodon auritus,Chile Chico,Reithrodon_auritus
+91,Reithrodon auritus,UACH,3953,1069MG,Reithrodon_auritus,M,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+92,Reithrodon auritus,UACH,3954,1070MHG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+93,Reithrodon auritus,UACH,3955,1071MHG,Reithrodon_auritus,M,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+94,Reithrodon auritus,UACH,3956,1072MHG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+95,Reithrodon auritus,UACH,3957,1073MHG,Reithrodon_auritus,M,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+96,Reithrodon auritus,UACH,3958,1074MG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+97,Reithrodon auritus,UACH,3959,1075MG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+98,Reithrodon auritus,UACH,3960,1076MG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+99,Reithrodon auritus,UACH,3961,1077MG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+100,Reithrodon auritus,UACH,3962,1078MG,Reithrodon_auritus,M,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+101,Reithrodon auritus,UACH,3963,1079MG,Reithrodon_auritus,F,pc,Reithrodon auritus,capt IEEUACH,Reithrodon_auritus
+48,Scapteromys aquaticus,MACN,13444,67,Scapteromys_aquaticus,F,pc,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+49,Scapteromys aquaticus,MACN,15404,24,Scapteromys_aquaticus,M,pc,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+50,Scapteromys aquaticus,MACN,13318,1,Scapteromys_aquaticus,M,pc,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+51,Scapteromys aquaticus,MACN,14428,348,Scapteromys_aquaticus,M,p,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+52,Scapteromys aquaticus,MACN,13445,68,Scapteromys_aquaticus,M,pc,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+53,Scapteromys aquaticus,MACN,15416,36,Scapteromys_aquaticus,M,pc,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+54,Scapteromys aquaticus,MACN,15413,33,Scapteromys_aquaticus,F,p,Scapteromys aquaticus,Bs As,Scapteromys_aquaticus
+55,Scapteromys aquaticus,MACN,20774,257,Scapteromys_aquaticus,F,pc,Scapteromys aquaticus,Formosa,Scapteromys_aquaticus
+56,Spalacopus cyanus,UACH,4567,206,Spalacopus_cyanus,F,c,Spalacopus cyanus,Los Cristales,Spalacopus_cyanus
+57,Spalacopus cyanus,UACH,4566,205,Spalacopus_cyanus,F,c,Spalacopus cyanus,Los Cristales,Spalacopus_cyanus
+58,Spalacopus cyanus,UACH,506,953PCR,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Lagunillas,Spalacopus_cyanus
+59,Spalacopus cyanus,UACH,507,954PCR,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Lagunillas,Spalacopus_cyanus
+60,Spalacopus cyanus,UACH,508,955PCR,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Lagunillas,Spalacopus_cyanus
+61,Spalacopus cyanus,UACH,514,956PCR,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+62,Spalacopus cyanus,UACH,515,957PCR,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+63,Spalacopus cyanus,UACH,503,959PCR,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Algarrobo,Spalacopus_cyanus
+64,Spalacopus cyanus,UACH,509,962PCR,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Concón Bajo,Spalacopus_cyanus
+65,Spalacopus cyanus,UACH,511,964PCR,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Concón Bajo,Spalacopus_cyanus
+66,Spalacopus cyanus,UACH,512,965PCR,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Concón Bajo,Spalacopus_cyanus
+67,Spalacopus cyanus,UACH,4530,168RAL,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+68,Spalacopus cyanus,UACH,4534,172RAL,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+69,Spalacopus cyanus,UACH,4537,188RAL,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+70,Spalacopus cyanus,UACH,4539,190RAL,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+71,Spalacopus cyanus,UACH,4540,191RAL,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+72,Spalacopus cyanus,UACH,4541,192RAL,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Vilos,Spalacopus_cyanus
+73,Spalacopus cyanus,UACH,7222,1791MG,Spalacopus_cyanus,M,p,Spalacopus cyanus,Quirihue,Spalacopus_cyanus
+74,Spalacopus cyanus,UACH,7223,1792MG,Spalacopus_cyanus,M,p,Spalacopus cyanus,"Quirihue, La Raya",Spalacopus_cyanus
+75,Spalacopus cyanus,UACH,7090,1740MHG,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Fundo Chinguelemu,Spalacopus_cyanus
+76,Spalacopus cyanus,UACH,7091,1746MHG,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Fundo Chinguelemu,Spalacopus_cyanus
+77,Spalacopus cyanus,UACH,7228,1811MG,Spalacopus_cyanus,F,p,Spalacopus cyanus,"Quirihue, La Raya",Spalacopus_cyanus
+78,Spalacopus cyanus,UACH,7226,1809MG,Spalacopus_cyanus,F,p,Spalacopus cyanus,"Quirihue, La Raya",Spalacopus_cyanus
+79,Spalacopus cyanus,UACH,966,513,Spalacopus_cyanus,F,pc,Spalacopus cyanus,Concón Bajo,Spalacopus_cyanus
+80,Spalacopus cyanus,UACH,1845,1082MG,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Retamales,Spalacopus_cyanus
+81,Spalacopus cyanus,UACH,1846,1033MG,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Retamales,Spalacopus_cyanus
+82,Spalacopus cyanus,UACH,1847,1034MG,Spalacopus_cyanus,M,pc,Spalacopus cyanus,Los Retamales,Spalacopus_cyanus
+468,Tapecomys wolffsohni,MACN,17723,3857,Tapecomys_wolffsohni,M,pc,Phyllotis caprinus,Sta Victoria W,Tapecomys_wolffsohni
+469,Tapecomys wolffsohni,MACN,17719,3721,Tapecomys_wolffsohni,F,pc,Tapecomys wolffsohni,"Salta, Sta Victoria W",Tapecomys_wolffsohni
+470,Tapecomys wolffsohni,MACN,17720,3722,Tapecomys_wolffsohni,F,p,Tapecomys wolffsohni,"Salta, Sta Victoria W",Tapecomys_wolffsohni
+471,Tapecomys wolffsohni,MACN,17722,3724,Tapecomys_wolffsohni,M,pc,Tapecomys wolffsohni,"Salta, Sta Victoria W",Tapecomys_wolffsohni
+102,Tympanoctomys barrerae,UACH,7125,1707MHG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+103,Tympanoctomys barrerae,UACH,7130,1731MHG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+104,Tympanoctomys barrerae,UACH,7131,1732MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+105,Tympanoctomys barrerae,UACH,7132,1733MHG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+106,Tympanoctomys barrerae,UACH,7133,1734MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+107,Tympanoctomys barrerae,UACH,7126,1708MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+108,Tympanoctomys barrerae,UACH,7134,1735MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+109,Tympanoctomys barrerae,UACH,7129,1730MHG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+110,Tympanoctomys barrerae,UACH,7153,1761MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Margarita Castillo,Tympanoctomys_barrerae
+111,Tympanoctomys barrerae,UACH,7154,1762MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Margarita Castillo,Tympanoctomys_barrerae
+112,Tympanoctomys barrerae,UACH,7155,1763MHG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Margarita Castillo,Tympanoctomys_barrerae
+113,Tympanoctomys barrerae,UACH,7163,1807MHG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Margarita Castillo,Tympanoctomys_barrerae
+114,Tympanoctomys barrerae,UACH,7137,1737MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+115,Tympanoctomys barrerae,UACH,7144,1752MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
+116,Tympanoctomys barrerae,UACH,7152,7152MHG,Tympanoctomys_barrerae,F,p,Tympanoctomys barrerae,Margarita Castillo,Tympanoctomys_barrerae
+117,Tympanoctomys barrerae,UACH,6961,1484MG,Tympanoctomys_barrerae,M,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+118,Tympanoctomys barrerae,UACH,6962,1485MG,Tympanoctomys_barrerae,M,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+119,Tympanoctomys barrerae,UACH,6960,1483MG,Tympanoctomys_barrerae,M,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+120,Tympanoctomys barrerae,UACH,6959,1482MG,Tympanoctomys_barrerae,F,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+121,Tympanoctomys barrerae,UACH,6966,1538MG,Tympanoctomys_barrerae,F,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+122,Tympanoctomys barrerae,UACH,6957,1480MG,Tympanoctomys_barrerae,M,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+123,Tympanoctomys barrerae,UACH,7098,1633MG,Tympanoctomys_barrerae,F,c,Tympanoctomys barrerae,Nihuil,Tympanoctomys_barrerae
+124,Tympanoctomys barrerae,UACH,7106,1649MG,Tympanoctomys_barrerae,F,c,Tympanoctomys barrerae,Salar de Añelo,Tympanoctomys_barrerae
+125,Tympanoctomys barrerae,UACH,7107,1650MG,Tympanoctomys_barrerae,F,c,Tympanoctomys barrerae,Salar de Añelo,Tympanoctomys_barrerae
+126,Tympanoctomys barrerae,UACH,7108,1651MG,Tympanoctomys_barrerae,M,p,Tympanoctomys barrerae,Agua de Tero,Tympanoctomys_barrerae
